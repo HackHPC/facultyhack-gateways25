@@ -1,0 +1,48 @@
+teams:
+  - teamname: Cyborgs
+    #url:  # Full URL
+    image: assets/teams/cyborgs/Cyborgs.jpg # assets/project/
+    #summary: Data De-Sensitizer/Anonymizer
+    #description: >
+    #  Tasks:
+    #    Develop data-cleaning framework,
+    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
+    #    Working proof-of-concept,
+    #emojicode: 🤠
+    #awards:
+    #    - name: "Viewer's Choice Award"
+    members:
+      names: [Oluwatosin Oyekeye, Maya Ody-Ajike, Oluwalayomi Fadero, Oluwanifemi Fadero, Terrance Jim]
+      role: Member
+      affiliation: [Alabama State University, Fisk University, Fisk University, Fisk University, Navajo Technical University]
+      #affinitals: SFU
+      #url: https://www.sfu.ca/
+      major: [Computer Science, Computer Science, Computer Science and Mathametics, Computer Science, IT Technician]
+    links:
+        - name: Team Introduction
+          url: assets/teams/cyborgs/cyborgs_intro.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"
+        - name: Theme Song - Cristale x Teezandos - Plugged In w/ Fumez The Engineer
+          tag: themesong
+          url: https://www.youtube.com/watch?v=QopN26wi708
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
+        - name: Github Repo
+          url: https://github.com/mayaajike/MS_CC-2023-Hack 
+          icon: "fab fa-github"
+          color: black
+          tag: github 
+        - name: Final Presentation
+          url: assets/teams/cyborgs/CYBORGS.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"  
+    images:
+        - name: Team Introduction
+          imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
+          url: assets/teams/cyborgs/cyborgs_intro.pdf
+        - name: Final Presentation
+          imagelink: assets/teams/cyborgs/CYBORGS-img.png
+          url: assets/teams/cyborgs/CYBORGS.pdf
+
+ 

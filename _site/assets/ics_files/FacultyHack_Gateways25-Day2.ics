@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacultyHack@Gateways25//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:session2-20250917T1800@facultyhack-gateways25
+DTSTAMP:20250830T005025Z
+DTSTART:20250917T220000Z
+DTEND:20250918T000000Z
+STATUS:CONFIRMED
+SUMMARY:FacultyHack@Gateways25: NAIRR Tutorial (ORNL & Je’aime)
+LOCATION:Zoom
+URL:https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+DESCRIPTION:Join Zoom Meeting: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1\n\nMeeting ID: 850 4108 8870\nPasscode: 540531\n\nOne tap mobile:\n+13052241968\,\,85041088870#\,\,\,\,*540531# US\n+13017158592\,\,85041088870#\,\,\,\,*540531# US (Washington DC)\n\nView meeting insights with Zoom AI Companion:\nhttps://us06web.zoom.us/launch/edl?muid=fcda5393-46cb-4be2-92e0-59e903715191\n\nJoin instructions:\nhttps://us06web.zoom.us/meetings/85041088870/invitations?signature=sm4BfT87hrZxvjYmF82-rUU4NpDsV5MXZ3PHymUDOL4
+END:VEVENT
+END:VCALENDAR

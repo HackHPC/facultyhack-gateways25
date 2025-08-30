@@ -1,0 +1,146 @@
+#preevent_schedule:
+## date time format example '2012-01-26T13:51:50.417-04:00'
+#  - date: "2023-06-22T13:30(-04:00)"
+#    #session: Morning #Evening
+#    length: 02:00
+#    timezone: EDT
+#    #location: Westin 6th Floor - Chastain F Room
+#    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+#    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+#    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+#    zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
+#    theme: Event Overview and Training
+#    events:
+#      - name: GitHub/GitHub Pages Training
+#        #type: Presentation
+#        links:
+#          - title: Slide Deck
+#            icon: fa-regular fa-file-pdf
+#            iconcolor: red
+#            url: "assets/slides/pre-event_training/GitHub-and-Github-Pages.pdf"
+#          - title: YouTube Video
+#            icon: "fab fa-youtube" #fa-regular fa-file-pdf
+#            iconcolor: red
+#            url: "https://youtu.be/UzzKBQmiLsU"
+#  #
+#
+#
+
+### Add link to ics file that has all other ics files merged
+
+mergedicsfile: assets/ics_files/FacultyHack_Gateways25-Combined.ics
+###
+
+#preevent_schedule:
+
+
+general_schedule:
+  # FacultyHack@Gateways25 — Virtual Meetups (6–8pm ET)
+- date: "2025-09-15T18:00(-04:00)"
+  session: Evening
+  # length: 02:00
+  timezone: EDT
+  icsfile: assets/ics_files/FacultyHack_Gateways25-Day1.ics
+  # location:
+  # address:
+  # googlemap:
+  # locationmap:
+  zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+  theme: "NAIRR Overview (SGX3)"
+
+- date: "2025-09-17T18:00(-04:00)"
+  session: Evening
+  # length: 02:00
+  timezone: EDT
+  icsfile: assets/ics_files/FacultyHack_Gateways25-Day2.ics
+  # location:
+  # address:
+  # googlemap:
+  # locationmap:
+  zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+  theme: "NAIRR Tutorial"
+
+- date: "2025-09-19T18:00(-04:00)"
+  session: Evening
+  # length: 02:00
+  timezone: EDT
+  icsfile: assets/ics_files/FacultyHack_Gateways25-Day3.ics
+  # location:
+  # address:
+  # googlemap:
+  # locationmap:
+  zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+  theme: "Jupyter, VSCode, and Omnibond's projectEUREKA!"
+
+- date: "2025-09-22T18:00(-04:00)"
+  session: Evening
+  # length: 02:00
+  timezone: EDT
+  icsfile: assets/ics_files/FacultyHack_Gateways25-Day4.ics
+  # location:
+  # address:
+  # googlemap:
+  # locationmap:
+  zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+  theme: "AI in the Classroom"
+
+- date: "2025-09-24T18:00(-04:00)"
+  session: Evening
+  # length: 02:00
+  timezone: EDT
+  icsfile: assets/ics_files/FacultyHack_Gateways25-Day5.ics
+  # location:
+  # address:
+  # googlemap:
+  # locationmap:
+  zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+  theme: "GitHub & Gateway Conference Poster Requirements"
+
+- date: "2025-09-26T18:00(-04:00)"
+  session: Evening
+  # length: 02:00
+  timezone: EDT
+  icsfile: assets/ics_files/FacultyHack_Gateways25-Day6.ics
+  # location:
+  # address:
+  # googlemap:
+  # locationmap:
+  zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+  theme: "Final Presentations"
+
+# Gateways 25 Conference — All-Day (In-Person, Green Bay, WI)
+- date: "2025-10-28T00:00(-05:00)"
+  session: All Day
+  # length: 24:00
+  timezone: CDT
+  icsfile: assets/ics_files/Gateways25-Day1.ics
+  location: "Green Bay, WI"
+  address: "2040 Airport Dr, Green Bay, WI 54313"
+  # googlemap:
+  # locationmap:
+  #zoomlink:
+  theme: "Gateways 25 Conference — Day 1 (In-Person)"
+
+- date: "2025-10-29T00:00(-05:00)"
+  session: All Day
+  # length: 24:00
+  timezone: CDT
+  icsfile: assets/ics_files/Gateways25-Day2.ics
+  location: "Green Bay, WI"
+  address: "2040 Airport Dr, Green Bay, WI 54313"
+  # googlemap:
+  # locationmap:
+  #zoomlink:
+  theme: "Gateways 25 Conference — Day 2 (In-Person)"
+
+- date: "2025-10-30T00:00(-05:00)"
+  session: All Day
+  # length: 24:00
+  timezone: CDT
+  icsfile: assets/ics_files/Gateways25-Day3.ics
+  location: "Green Bay, WI"
+  address: "2040 Airport Dr, Green Bay, WI 54313"
+  # googlemap:
+  # locationmap:
+  #zoomlink:
+  theme: "Gateways 25 Conference — Day 3 (In-Person)"

@@ -1,0 +1,53 @@
+<div class="sponsorssidebar-v">
+  {% include views/socials.html %}
+  
+  {% if site.data.sponsors %}
+  <h1>Supporters:</h1>
+  <ul>
+    {% for sponsor in site.data.sponsors.sponsors %}
+    <li class="supporterli">
+      
+        {% if sponsor.logo %}
+        <a href="{{ sponsor.url }}" target="_blank" >
+            <img src="{{ sponsor.logo |  relative_url }}" ></a>
+        {% else %}
+        
+        <br>
+        <a class="sponsortext" href="{{ sponsor.url }}" target="_blank"> 
+          <strong class="sponsortext"> {{ sponsor.name }} </strong>
+          
+            {% endif %}
+
+            {% if sponsor.grant %}
+        
+                {% for grant in sponsor.grant %} 
+                <br>
+                 <em >
+                    {% if grant.description %}
+                    
+                      {% if grant.logo %}
+                      <img class="grantimg" src="{{ grant.logo |  relative_url }}">
+                      {% endif %}
+                    <p class="granttxt">{{ grant.description }}</p>
+                    {% else %}
+                    Funded by: {{ grant.awardagency }}]</em></a> 
+                    {% endif %}
+                  
+                {% endfor %}
+            
+                
+              {% endif %}
+        {% endfor %}
+     
+  
+                 </li>
+  <ul>
+    {% endif %}
+
+
+
+</div>
+
+
+
+

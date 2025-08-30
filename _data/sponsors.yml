@@ -1,0 +1,50 @@
+sponsors: # Used for Sponsors
+  - name: "SGX3"
+    url: https://sciencegateways.org/
+    logo: /assets/imgs/logos/Mediamodifier-Design-Template.png
+    grant:
+      - awardagency: National Science Foundation
+        logo: /assets/imgs/logos/NSF.svg
+        url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2231406
+        description: >
+          SGX3 is funded by the National Science Foundation under award number 2231406.
+
+  - name: "US-RSE | United States Research Software Engineer"
+    url: https://us-rse.org
+    logo: assets/imgs/logos/usrse_logo_transparent.png
+
+  - name: "Oak Ridge National Laboratory"
+    url: https://www.ornl.gov
+    logo: /assets/imgs/logos/2000px-Oak_Ridge_National_Laboratory_logo.svg_.png
+
+ # - name: "Voltron Data"
+  #  url: https://voltrondata.com
+  #  logo: /assets/imgs/logos/Voltron-Data-logo.jpeg
+
+  - name: Omnibond Systems
+    url: http://omnibond.com/
+    logo: /assets/imgs/logos/omnibond.svg
+  - name: Texas Advanced Computing Center
+    url: https://www.tacc.utexas.edu/
+    logo: /assets/imgs/logos/TACC-formal-Black-1c-5602fc8f.svg
+
+#  - name: "Science Gateways Community Institute"
+#    url: https://sciencegateways.org/
+#    logo: /assets/imgs/logos/sgci-logo.svg
+#    grant:
+#      - awardagency: National Science Foundation
+#        logo: /assets/imgs/logos/NSF.svg
+#        url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1547611
+#        description: >
+#          The SGCI is funded by the National Science Foundation under award number ACI-1547611.
+
+  - name: "Science and Technology Affiliates for Research (STAR) Industry Program"
+    url: https://www.tacc.utexas.edu/partnerships/star-industry-program/
+    logo: assets/imgs/logos/starprogram-logo.png
+
+  #  - name: Amazon Web Services
+  #    url: https://aws.amazon.com/
+  #    logo: /assets/imgs/logos/AWS_logo_RGB.svg
+  - name: HackHPC.org
+    url: http://hackhpc.org/
+    logo: /assets/imgs/logos/hackhpclogo-only.svg

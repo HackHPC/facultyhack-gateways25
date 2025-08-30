@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacultyHack@Gateways25 + Gateways25//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FacultyHack@Gateways25 + Gateways 25 Conference
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:fh-session1-20250915T1800@facultyhack-gateways25
+DTSTAMP:20250830T005852Z
+DTSTART:20250915T220000Z
+DTEND:20250916T000000Z
+STATUS:CONFIRMED
+SUMMARY:FacultyHack@Gateways25: NAIRR Overview (SGX3)
+LOCATION:Zoom
+URL:https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+DESCRIPTION:Join Zoom Meeting: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1\n\nMeeting ID: 850 4108 8870\nPasscode: 540531\n\nOne tap mobile:\n+13052241968\,\,85041088870#\,\,\,\,*540531# US\n+13017158592\,\,85041088870#\,\,\,\,*540531# US (Washington DC)\n\nView meeting insights with Zoom AI Companion:\nhttps://us06web.zoom.us/launch/edl?muid=fcda5393-46cb-4be2-92e0-59e903715191\n\nJoin instructions:\nhttps://us06web.zoom.us/meetings/85041088870/invitations?signature=sm4BfT87hrZxvjYmF82-rUU4NpDsV5MXZ3PHymUDOL4
+END:VEVENT
+BEGIN:VEVENT
+UID:fh-session2-20250917T1800@facultyhack-gateways25
+DTSTAMP:20250830T005852Z
+DTSTART:20250917T220000Z
+DTEND:20250918T000000Z
+STATUS:CONFIRMED
+SUMMARY:FacultyHack@Gateways25: NAIRR Tutorial (ORNL & Je’aime)
+LOCATION:Zoom
+URL:https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+DESCRIPTION:Join Zoom Meeting: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1\n\nMeeting ID: 850 4108 8870\nPasscode: 540531\n\nOne tap mobile:\n+13052241968\,\,85041088870#\,\,\,\,*540531# US\n+13017158592\,\,85041088870#\,\,\,\,*540531# US (Washington DC)\n\nView meeting insights with Zoom AI Companion:\nhttps://us06web.zoom.us/launch/edl?muid=fcda5393-46cb-4be2-92e0-59e903715191\n\nJoin instructions:\nhttps://us06web.zoom.us/meetings/85041088870/invitations?signature=sm4BfT87hrZxvjYmF82-rUU4NpDsV5MXZ3PHymUDOL4
+END:VEVENT
+BEGIN:VEVENT
+UID:fh-session3-20250919T1800@facultyhack-gateways25
+DTSTAMP:20250830T005852Z
+DTSTART:20250919T220000Z
+DTEND:20250920T000000Z
+STATUS:CONFIRMED
+SUMMARY:FacultyHack@Gateways25: Jupyter (Charlie) & VSCode (Je’aime) — projectEUREKA!
+LOCATION:Zoom
+URL:https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+DESCRIPTION:Join Zoom Meeting: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1\n\nMeeting ID: 850 4108 8870\nPasscode: 540531\n\nOne tap mobile:\n+13052241968\,\,85041088870#\,\,\,\,*540531# US\n+13017158592\,\,85041088870#\,\,\,\,*540531# US (Washington DC)\n\nView meeting insights with Zoom AI Companion:\nhttps://us06web.zoom.us/launch/edl?muid=fcda5393-46cb-4be2-92e0-59e903715191\n\nJoin instructions:\nhttps://us06web.zoom.us/meetings/85041088870/invitations?signature=sm4BfT87hrZxvjYmF82-rUU4NpDsV5MXZ3PHymUDOL4
+END:VEVENT
+BEGIN:VEVENT
+UID:fh-session4-20250922T1800@facultyhack-gateways25
+DTSTAMP:20250830T005852Z
+DTSTART:20250922T220000Z
+DTEND:20250923T000000Z
+STATUS:CONFIRMED
+SUMMARY:FacultyHack@Gateways25: AI in the Classroom (Joe Stubbs\; Bernie)
+LOCATION:Zoom
+URL:https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+DESCRIPTION:Join Zoom Meeting: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1\n\nMeeting ID: 850 4108 8870\nPasscode: 540531\n\nOne tap mobile:\n+13052241968\,\,85041088870#\,\,\,\,*540531# US\n+13017158592\,\,85041088870#\,\,\,\,*540531# US (Washington DC)\n\nView meeting insights with Zoom AI Companion:\nhttps://us06web.zoom.us/launch/edl?muid=fcda5393-46cb-4be2-92e0-59e903715191\n\nJoin instructions:\nhttps://us06web.zoom.us/meetings/85041088870/invitations?signature=sm4BfT87hrZxvjYmF82-rUU4NpDsV5MXZ3PHymUDOL4
+END:VEVENT
+BEGIN:VEVENT
+UID:fh-session5-20250924T1800@facultyhack-gateways25
+DTSTAMP:20250830T005852Z
+DTSTART:20250924T220000Z
+DTEND:20250925T000000Z
+STATUS:CONFIRMED
+SUMMARY:FacultyHack@Gateways25: GitHub (Alex Fields) & Gateways Poster Requirements
+LOCATION:Zoom
+URL:https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+DESCRIPTION:Join Zoom Meeting: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1\n\nMeeting ID: 850 4108 8870\nPasscode: 540531\n\nOne tap mobile:\n+13052241968\,\,85041088870#\,\,\,\,*540531# US\n+13017158592\,\,85041088870#\,\,\,\,*540531# US (Washington DC)\n\nView meeting insights with Zoom AI Companion:\nhttps://us06web.zoom.us/launch/edl?muid=fcda5393-46cb-4be2-92e0-59e903715191\n\nJoin instructions:\nhttps://us06web.zoom.us/meetings/85041088870/invitations?signature=sm4BfT87hrZxvjYmF82-rUU4NpDsV5MXZ3PHymUDOL4
+END:VEVENT
+BEGIN:VEVENT
+UID:fh-session6-20250926T1800@facultyhack-gateways25
+DTSTAMP:20250830T005852Z
+DTSTART:20250926T220000Z
+DTEND:20250927T000000Z
+STATUS:CONFIRMED
+SUMMARY:FacultyHack@Gateways25: Final Presentations
+LOCATION:Zoom
+URL:https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
+DESCRIPTION:Join Zoom Meeting: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1\n\nMeeting ID: 850 4108 8870\nPasscode: 540531\n\nOne tap mobile:\n+13052241968\,\,85041088870#\,\,\,\,*540531# US\n+13017158592\,\,85041088870#\,\,\,\,*540531# US (Washington DC)\n\nView meeting insights with Zoom AI Companion:\nhttps://us06web.zoom.us/launch/edl?muid=fcda5393-46cb-4be2-92e0-59e903715191\n\nJoin instructions:\nhttps://us06web.zoom.us/meetings/85041088870/invitations?signature=sm4BfT87hrZxvjYmF82-rUU4NpDsV5MXZ3PHymUDOL4
+END:VEVENT
+BEGIN:VEVENT
+UID:g25-day1-2025-10-28@gateways25
+DTSTAMP:20250830T005852Z
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251029
+STATUS:CONFIRMED
+SUMMARY:Gateways 25 Conference — Day 1 (In-Person)
+LOCATION:Green Bay\, WI
+DESCRIPTION:In-person conference day in Green Bay\, WI.
+END:VEVENT
+BEGIN:VEVENT
+UID:g25-day2-2025-10-29@gateways25
+DTSTAMP:20250830T005852Z
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251030
+STATUS:CONFIRMED
+SUMMARY:Gateways 25 Conference — Day 2 (In-Person)
+LOCATION:Green Bay\, WI
+DESCRIPTION:In-person conference day in Green Bay\, WI.
+END:VEVENT
+BEGIN:VEVENT
+UID:g25-day3-2025-10-30@gateways25
+DTSTAMP:20250830T005852Z
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251031
+STATUS:CONFIRMED
+SUMMARY:Gateways 25 Conference — Day 3 (In-Person)
+LOCATION:Green Bay\, WI
+DESCRIPTION:In-person conference day in Green Bay\, WI.
+END:VEVENT
+END:VCALENDAR
