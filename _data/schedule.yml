@@ -58,7 +58,7 @@ general_schedule:
   # googlemap:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
-  theme: "NAIRR Tutorial"
+  theme: "JetStream2 - NAIRR Resource Tutorial"
 
 - date: "2025-09-19T18:00(-04:00)"
   session: Evening
