@@ -9,9 +9,9 @@ sponsors: # Used for Sponsors
         description: >
           SGX3 is funded by the National Science Foundation under award number 2231406.
 
-  - name: "US-RSE | United States Research Software Engineer"
-    url: https://us-rse.org
-    logo: assets/imgs/logos/usrse_logo_transparent.png
+  #- name: "US-RSE | United States Research Software Engineer"
+  #  url: https://us-rse.org
+  #  logo: assets/imgs/logos/usrse_logo_transparent.png
 
   - name: "Oak Ridge National Laboratory"
     url: https://www.ornl.gov
@@ -38,9 +38,9 @@ sponsors: # Used for Sponsors
 #        description: >
 #          The SGCI is funded by the National Science Foundation under award number ACI-1547611.
 
-  - name: "Science and Technology Affiliates for Research (STAR) Industry Program"
-    url: https://www.tacc.utexas.edu/partnerships/star-industry-program/
-    logo: assets/imgs/logos/starprogram-logo.png
+  #- name: "Science and Technology Affiliates for Research (STAR) Industry Program"
+  #  url: https://www.tacc.utexas.edu/partnerships/star-industry-program/
+  #  logo: assets/imgs/logos/starprogram-logo.png
 
   #  - name: Amazon Web Services
   #    url: https://aws.amazon.com/
