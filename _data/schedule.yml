@@ -47,6 +47,16 @@ general_schedule:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
   theme: "NAIRR Overview (SGX3)"
+  events:
+    - name: FacultyHack Logistics
+      type: Presentation
+      links:
+        - title: Sesson Slide Deck
+          icon: fa-brands fa-google-drive
+          url: https://docs.google.com/presentation/d/1PIO5xEWVHzFRubsVJvSfJFWCmrsvpHd-hU-GPUJ8v94/edit?usp=sharing
+        - title: Course Goals Deck
+          icon: fa-brands fa-google-drive
+          url: https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing 
 
 - date: "2025-09-17T18:00(-04:00)"
   session: Evening
