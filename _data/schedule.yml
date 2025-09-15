@@ -46,7 +46,7 @@ general_schedule:
   # googlemap:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
-  theme: "NAIRR Overview (SGX3)"
+  theme: "SGX3 Overview"
   events:
     - name: FacultyHack Logistics
       type: Presentation
@@ -69,6 +69,17 @@ general_schedule:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
   theme: "JetStream2 - NAIRR Resource Tutorial"
+  events:
+    - name: "JetStream2 Overview"
+      type: Presentation
+      links:
+        - title: Course Goals Deck
+          icon: fa-brands fa-google-drive
+          url:  https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing
+        - title: Lena Seymour's LinkedIn
+          icon: fa fa-linkedin
+          url: https://www.linkedin.com/in/lena-dupsey/
+         
 
 - date: "2025-09-19T18:00(-04:00)"
   session: Evening
