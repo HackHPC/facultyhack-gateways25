@@ -53,10 +53,20 @@ general_schedule:
       links:
         - title: Sesson Slide Deck
           icon: fa-brands fa-google-drive
+          iconcolor: orange
           url: https://docs.google.com/presentation/d/1PIO5xEWVHzFRubsVJvSfJFWCmrsvpHd-hU-GPUJ8v94/edit?usp=sharing
         - title: Course Goals Deck
           icon: fa-brands fa-google-drive
+          iconcolor: orange
           url: https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing 
+        - title: Science Gateways (SGX3)
+          icon: fa-solid fa-globe
+          iconcolor: black
+          url: https://sciencegateways.org/
+        - title: National AI Research Resource Pilot (NAIRR)
+          icon: fa-solid fa-globe
+          url: https://nairrpilot.org/
+          iconcolor: black
 
 - date: "2025-09-17T18:00(-04:00)"
   session: Evening
@@ -75,9 +85,11 @@ general_schedule:
       links:
         - title: Course Goals Deck
           icon: fa-brands fa-google-drive
+          iconcolor: orange
           url:  https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing
         - title: Lena Seymour's LinkedIn
           icon: fa fa-linkedin
+          iconcolor: blue
           url: https://www.linkedin.com/in/lena-dupsey/
          
 
