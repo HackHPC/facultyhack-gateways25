@@ -106,8 +106,8 @@ general_schedule:
           iconcolor: black
           url: https://tacc.utexas.edu/about/staff-directory/francois-halbach/
         - title: Joe Allen
-          icon: fa-solid fa-globe
-          iconcolor: black
+          icon: fa fa-linkedin
+          iconcolor: blue
           url: https://www.linkedin.com/in/william-joseph-allen-a9a92682/
           
          
