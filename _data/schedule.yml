@@ -52,13 +52,17 @@ general_schedule:
       type: Presentation
       links:
         - title: Sesson Slide Deck
-          icon: fa-brands fa-google-drive
-          iconcolor: orange
-          url: https://docs.google.com/presentation/d/1PIO5xEWVHzFRubsVJvSfJFWCmrsvpHd-hU-GPUJ8v94/edit?usp=sharing
+          icon: fa-regular fa-file-pdf
+          iconcolor: red
+          url: "assets/slides/event/FacultyHack25-Kickoff.pdf"
         - title: Course Goals Deck
           icon: fa-brands fa-google-drive
           iconcolor: orange
           url: https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing 
+        - title: SGX3 Overview
+          icon: fa-regular fa-file-pdf
+          iconcolor: red
+          url: "assets/slides/event/SGX3_Overview.pdf"
         - title: Science Gateways (SGX3)
           icon: fa-solid fa-globe
           iconcolor: black
