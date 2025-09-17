@@ -91,6 +91,11 @@ general_schedule:
           icon: fa fa-linkedin
           iconcolor: blue
           url: https://www.linkedin.com/in/lena-dupsey/
+        - title: Francois Halbach 
+          icon: fa-solid fa-globe
+          iconcolor: black
+          url: https://tacc.utexas.edu/about/staff-directory/francois-halbach/
+          
          
 
 - date: "2025-09-19T18:00(-04:00)"
