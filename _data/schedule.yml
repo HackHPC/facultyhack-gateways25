@@ -117,7 +117,30 @@ general_schedule:
           icon: fa fa-linkedin
           iconcolor: blue
           url: https://www.linkedin.com/in/william-joseph-allen-a9a92682/
-          
+        - title: Jetstream2 docs
+          icon: fa-solid fa-globe
+          iconcolor: black
+          url: https://docs.jetstream-cloud.org/getting-started/overview/
+        - title: CLI installation 
+          icon: fa-solid fa-globe
+          iconcolor: black
+          url: https://docs.jetstream-cloud.org/ui/cli/clients/?h=cli#commonlinux-steps
+        - title: OpenStack CLI docs 
+          icon: fa-solid fa-globe
+          iconcolor: black
+          url: https://docs.openstack.org/python-openstackclient/latest/cli/command-objects/server.html
+        - title: Ansible openstack server module
+          icon: fa-solid fa-globe
+          iconcolor: black
+          url: https://docs.ansible.com/ansible/latest/collections/openstack/cloud/server_module.html#examples
+        - title: Exosphere web ui
+          icon: fa-solid fa-globe
+          iconcolor: black
+          url: https://jetstream2.exosphere.app/exosphere/
+        - title: Horizon web ui
+          icon: fa-solid fa-globe
+          iconcolor: black
+          url: https://js2.jetstream-cloud.org/auth/login/?next=/  
          
 
 - date: "2025-09-19T18:00(-04:00)"
