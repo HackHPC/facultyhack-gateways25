@@ -93,6 +93,10 @@ general_schedule:
     - name: "JetStream2 Overview"
       type: Presentation
       links:
+        - title: JetStream2 Slide Deck
+          icon: fa-regular fa-file-pdf
+          iconcolor: red
+          url: "assets/slides/event/Jetstream2 in the Classroom_9-2025.pdf"
         - title: Lena Seymour's LinkedIn
           icon: fa fa-linkedin
           iconcolor: blue
@@ -101,6 +105,10 @@ general_schedule:
           icon: fa-solid fa-globe
           iconcolor: black
           url: https://tacc.utexas.edu/about/staff-directory/francois-halbach/
+        - title: Joe Allen
+          icon: fa-solid fa-globe
+          iconcolor: black
+          url: https://www.linkedin.com/in/william-joseph-allen-a9a92682/
           
          
 
