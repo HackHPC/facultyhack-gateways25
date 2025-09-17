@@ -59,7 +59,7 @@ general_schedule:
           icon: fa-brands fa-google-drive
           iconcolor: orange
           url: https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing 
-        - title: SGX3 Overview
+        - title: SGX3 Overview Slide Deck
           icon: fa-regular fa-file-pdf
           iconcolor: red
           url: "assets/slides/event/SGX3_Overview.pdf"
@@ -86,7 +86,7 @@ general_schedule:
   events:
     - name: Check-in
       links:
-        - title: Session Slide Deck
+        - title: Checkin 1 Session Slide Deck
           icon: fa-brands fa-google-drive
           iconcolor: orange
           url: https://docs.google.com/presentation/d/1vn4kRRSO-baJqPf1nTGEbH6M46lcHJOIqkOjGACYoxE/edit?usp=sharing
@@ -98,6 +98,10 @@ general_schedule:
           icon: fa-brands fa-google-drive
           iconcolor: orange
           url:  https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing
+        - title: Mentoring Suggestions Slide Deck
+          icon: fa-regular fa-file-pdf
+          iconcolor: red
+          url: "assets/slides/event/Faculty_Mentoring_Suggestions.pdf"
     - name: "JetStream2 Overview"
       type: Presentation
       links:
