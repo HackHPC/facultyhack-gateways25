@@ -90,6 +90,10 @@ general_schedule:
           icon: fa-brands fa-google-drive
           iconcolor: orange
           url: https://docs.google.com/presentation/d/1vn4kRRSO-baJqPf1nTGEbH6M46lcHJOIqkOjGACYoxE/edit?usp=sharing
+        - title: Code of Conduct
+          icon: fa-solid fa-globe
+          iconcolor: black
+          url: https://sciencegateways.org/about/code-of-conduct
         - title: Course Goals Deck
           icon: fa-brands fa-google-drive
           iconcolor: orange
