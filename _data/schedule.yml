@@ -80,13 +80,19 @@ general_schedule:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
   theme: "JetStream2 - NAIRR Resource Tutorial"
   events:
-    - name: "JetStream2 Overview"
-      type: Presentation
+    - name: Check-in
       links:
+        - title: Session Slide Deck
+          icon: fa-brands fa-google-drive
+          iconcolor: orange
+          url: https://docs.google.com/presentation/d/1vn4kRRSO-baJqPf1nTGEbH6M46lcHJOIqkOjGACYoxE/edit?usp=sharing
         - title: Course Goals Deck
           icon: fa-brands fa-google-drive
           iconcolor: orange
           url:  https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing
+    - name: "JetStream2 Overview"
+      type: Presentation
+      links:
         - title: Lena Seymour's LinkedIn
           icon: fa fa-linkedin
           iconcolor: blue
