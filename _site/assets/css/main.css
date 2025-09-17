@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #9ec1d4;
+  color: #005798;
   text-decoration: none;
 }
 a:hover {
@@ -417,10 +417,10 @@ html[data-scroll-status=down] .framework .sidebar {
   padding: 54px 0;
 }
 .site-footer a {
-  color: #9ec1d4;
+  color: #005798;
 }
 .site-footer a:hover {
-  color: #c1d8e4;
+  color: #0074cb;
 }
 
 .copyleft {
@@ -497,7 +497,7 @@ html[data-scroll-status=down] .framework .sidebar {
   margin-left: 8px;
   margin-top: 3px;
   padding: 0px 3px;
-  background-color: #9ec1d4;
+  background-color: #005798;
   color: #fff;
   font-size: 10px;
   font-weight: 600;
@@ -654,7 +654,7 @@ html[data-scroll-status=down] .framework .sidebar {
   margin-left: 8px;
   margin-top: 3px;
   padding: 0px 3px;
-  background-color: #9ec1d4;
+  background-color: #005798;
   color: #fff;
   font-size: 10px;
   font-weight: 600;
@@ -895,7 +895,7 @@ html[data-scroll-status=down] .framework .sidebar {
   margin-left: 8px;
   margin-top: 3px;
   padding: 0px 3px;
-  background-color: #9ec1d4;
+  background-color: #005798;
   color: #fff;
   font-size: 10px;
   font-weight: 600;
@@ -1492,7 +1492,7 @@ h1.schedule-title {
 h2.event-title {
   font-size: 20px;
   border-radius: 8px;
-  color: #0f4150;
+  color: #005798;
   background: #fcf7f1;
   text-transform: uppercase;
 }
@@ -1506,7 +1506,7 @@ h2.event-title {
 .event-container h3.year {
   font-size: 40px;
   text-align: center;
-  border-bottom: 1px solid #0f4150;
+  border-bottom: 1px solid #005798;
 }
 
 .event-container .event {
@@ -1522,12 +1522,12 @@ h2.event-title {
   display: flex;
   border-radius: 8px;
   margin: 32px 0;
-  border: 1px solid #0f4150;
+  border: 1px solid #005798;
   background-color: #fcf7f1;
 }
 
 .event .event-left {
-  background: #0f4150;
+  background: #005798;
   width: 100px;
   display: flex;
   align-items: center;
@@ -1592,7 +1592,7 @@ h2.event-title {
 .event .event-right a.organizer-accent {
   font-size: medium;
   font-weight: bold;
-  color: #9ec1d4;
+  color: #005798;
 }
 
 img.organizers {
@@ -1615,7 +1615,7 @@ div.organizers {
 .event .event-right h3.event-title {
   font-size: 24px;
   margin: 24px 0 10px 0;
-  color: #0f4150;
+  color: #005798;
   text-transform: uppercase;
 }
 

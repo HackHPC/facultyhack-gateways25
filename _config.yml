@@ -133,7 +133,7 @@ header_transparent: false
 # brand_color: orangered
 #
 # Custom color as below:
-brand_color: "#9ec1d4" #"#1f4f63" #"#3A87C4" #"#F9943B" #"#68c18c" #"#1a8e42"
+brand_color: "#005798" #9ec1d4" #"#1f4f63" #"#3A87C4" #"#F9943B" #"#68c18c" #"#1a8e42"
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
