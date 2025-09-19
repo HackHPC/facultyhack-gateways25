@@ -71,6 +71,10 @@ general_schedule:
           icon: fa-solid fa-globe
           url: https://nairrpilot.org/
           iconcolor: black
+        - title: Deliverables 
+          icon: fa-regular fa-file-pdf
+          iconcolor: red
+          url: "assets/slides/event/FacultyHack25-Deliverables.pdf"
 
 - date: "2025-09-17T18:00(-04:00)"
   session: Evening
@@ -157,7 +161,18 @@ general_schedule:
   # googlemap:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
-  theme: "Jupyter, VSCode, and Omnibond's projectEUREKA!"
+  theme: "Chaeck-in and Mentoring"
+  events:
+    - name: Check-in 2
+      links:
+        - title: Course Goals Deck
+          icon: fa-brands fa-google-drive
+          iconcolor: orange
+          url:  https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing
+        - title: Deliverables 
+          icon: fa-regular fa-file-pdf
+          iconcolor: red
+          url: "assets/slides/event/FacultyHack25-Deliverables.pdf"
 
 - date: "2025-09-22T18:00(-04:00)"
   session: Evening
