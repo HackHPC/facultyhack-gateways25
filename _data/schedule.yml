@@ -161,7 +161,7 @@ general_schedule:
   # googlemap:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
-  theme: "Chaeck-in and Mentoring"
+  theme: "Check-in and Mentoring"
   events:
     - name: Check-in 2
       links:
@@ -184,7 +184,7 @@ general_schedule:
   # googlemap:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
-  theme: "AI in the Classroom"
+  theme: "Check-in  and AI in the Classroom"
 
 - date: "2025-09-24T18:00(-04:00)"
   session: Evening
