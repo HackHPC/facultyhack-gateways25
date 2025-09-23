@@ -184,7 +184,7 @@ general_schedule:
   # googlemap:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
-  theme: "Check-in  and AI in the Classroom"
+  theme: "Check-in and AI in the Classroom"
 
 - date: "2025-09-24T18:00(-04:00)"
   session: Evening
@@ -197,6 +197,13 @@ general_schedule:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
   theme: "GitHub & Gateway Conference Poster Requirements"
+  events:
+    - name: Poster Requirements Overview
+      links:
+        - title: Poster Template
+          icon: fa-regular fa-file-powerpoint
+          iconcolor: purple
+          url:  "assets/slides/event/FacultyHack25_Poster_Template.pptx"
 
 - date: "2025-09-26T18:00(-04:00)"
   session: Evening
