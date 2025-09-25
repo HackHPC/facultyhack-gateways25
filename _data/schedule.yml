@@ -154,7 +154,6 @@ general_schedule:
           iconcolor: black
           url: https://js2.jetstream-cloud.org/auth/login/?next=/  
          
-
 - date: "2025-09-19T18:00(-04:00)"
   session: Evening
   # length: 02:00
@@ -215,8 +214,6 @@ general_schedule:
           icon: fa fa-linkedin
           iconcolor: blue
           url: https://www.linkedin.com/in/joe-stubbs-54010022
-
-
 
 - date: "2025-09-24T18:00(-04:00)"
   session: Evening
