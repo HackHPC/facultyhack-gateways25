@@ -46,7 +46,13 @@ teams:
       <li>Goal 4: Connect to Supercomputing</li>
     </ul>
   files: 'teams/Sabrina_Perry'
-  links: []
+  links:
+    - name: GitHub Repo
+      url: https://github.com/suhbrina-perry/FacultyHackHPC25
+      icon: "fa-brands fa-github"
+      iconcolor: black
+
+
   images:
     - name: Course Goals
       url: teams/Sabrina_Perry/coursegoals.pdf
@@ -354,11 +360,15 @@ teams:
     </p>
   projectgoals: |-
     <ul>
-      <li>Improve student engagements and interests in coursework. Creates diverse sets of quizzes and project ideas with the syllabus. R eal world scenarios with AI role play</li>
-      <li>Science Gateway Goal: 1: Integrate Jetstream2 into modules and assignments. Science Gateway Goal 2 : Simulate more real world scenarios with AI role play using deapsecure , and clark</li>
+      <li>Science Gateway Goal: 1: Integrate Jetstream2 into modules and assignments. </li>
+      </li>Science Gateway Goal 2 : Simulate more real world scenarios with AI role play using deapsecure , and clark</li>
     </ul>
   files: 'teams/Joshua_Gbadebo'
-  links: []
+  links:
+    - name: Cheese-Hub
+      url: https://github.com/cheese-hub
+      icon: "fa-brands fa-github"
+      iconcolor: black
   images:
     - name: Course Goals
       url: teams/Joshua_Gbadebo/coursegoals.pdf
