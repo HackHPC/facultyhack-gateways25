@@ -20,11 +20,13 @@
         <p style="margin-bottom: 2px;">
           
           {% if team.coursedescription %}
-          <strong>Course Description:</strong> {{ team.coursedescription }} <br>
+          <strong>Course Description:</strong> {{ team.coursedescription }}
           {% endif %}
 
           {% if team.projectgoals %}
-          {% if team.awards %} &#127942; <strong style="color:goldenrod;">{{ team.awards }} - </strong>{% endif %}
+          {% if team.awards %} &#127942; <strong style="color:goldenrod;">{{ team.awards }} - </strong>
+          {% endif %}
+          
           <strong>Project Goal(s):</strong> {{ team.projectgoals }}
        
        {% endif %}
@@ -73,7 +75,7 @@
               <br> <em>{{ team.members.major[forloop.index0] }}</em> 
               {% endif %}
               
-              <br><a href="{{ team.members.affiliationurl[forloop.index0 ] }}">{{ team.members.affiliation[forloop.index0 ] }} </a><br>
+              <a href="{{ team.members.affiliationurl[forloop.index0 ] }}">{{ team.members.affiliation[forloop.index0 ] }} </a><br>
               
             </li>
         {% endfor %}

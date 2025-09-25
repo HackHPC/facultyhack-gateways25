@@ -6,6 +6,9 @@
     border-radius: 8px;
     border: 1px solid slategrey;
     background-image: url( "https://hackhpc.github.io/facultyhack-gateways23/assets/imgs/SGX3FacultyHack2023_ZoomBG1-cropped.png" );
+    flex-wrap: wrap;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
    
 
@@ -23,18 +26,18 @@
 .teams-h-container:hover {
     //box-shadow: 2px 2px -4px 2px slategray;
     //border: 3px solid slategray;
-    #background-color: rgba(1, 29, 43, 0.75) /* rgba(1,60,89, .5 ) #0f4150 #3A87C4 */;
-    background-image: linear-gradient(#F9943B, #0f4150 );
-
+    //#background-color: rgba(1, 29, 43, 0.75) /* rgba(1,60,89, .5 ) #0f4150 #3A87C4 */;
+    //background-image: linear-gradient(#F9943B, #0f4150 );
+    background-color: rgba(128, 158, 212, 0.65) /* rgba(1,60,89, .5 ) #0f4150 #3A87C4 */;
     //$darkbrand-color: #0f4150;
     //$accentbrand-color: #F9943B; 
+
+    
 
     p.teams-h {
         font-size: small;
         text-align: center;
         color: rgba(1, 29, 43, 1);
-
-        
     }
 
   }
