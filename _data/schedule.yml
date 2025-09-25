@@ -47,6 +47,8 @@ general_schedule:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
   theme: "SGX3 Overview"
+  description: >
+        <strong>Summary:</strong> The meeting began with discussions about weather-related products and event preparations, including slide deck updates and guest lecturer coordination. The main focus was on the FacultyHack@Gateways25 project, which aims to enhance course syllabi through Science Gateway, HPC, and AI resources, with participants introduced to the project's schedule and deliverables. The conversation ended with details about the upcoming Faculty Hack event, including mentor introductions, participant assignments, and plans for future sessions focusing on NAR resources and Jetstream 2.
   events:
     - name: FacultyHack Logistics
       type: Presentation
@@ -87,6 +89,8 @@ general_schedule:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
   theme: "JetStream2 - NAIRR Resource Tutorial"
+  description: >
+        <strong>Summary:</strong> The team discussed plans for an upcoming meeting with faculty and mentors, including agenda items like Code of Conduct review and Jetstream overview presentations. The meeting focused on welcoming participants to Faculty Hack at Gateways 25, with discussions about registration issues and mentor matches. The session included detailed presentations about Jetstream features, access processes, and infrastructure, along with technical guidance for educators on implementing the platform in their courses.
   events:
     - name: Check-in
       links:
@@ -162,6 +166,8 @@ general_schedule:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
   theme: "Check-in and Mentoring"
+  description: >
+        <strong>Summary:</strong> The meeting began with course goals presentations and registration details for the Science Gateways conference. Participants discussed funding and travel arrangements for conference attendance, including coverage for travel expenses and proper payment methods. The majority of the meeting focused on mentor-mentee introductions where various faculty members presented their plans for incorporating HPC concepts into their courses, followed by discussions about course assignments and logistics for upcoming events.
   events:
     - name: Check-in 2
       links:
@@ -185,6 +191,32 @@ general_schedule:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
   theme: "Check-in and AI in the Classroom"
+  description: >
+        <strong>Summary:</strong> The team coordinated logistics for upcoming meetings and events, including scheduling and funding discussions for various applications. The main portion of the meeting featured Joe Stubbs presenting his AI course (COE379L) at UT Austin, where he shared insights on course structure, teaching methods, and challenges in incorporating AI tools into educational settings. The session concluded with discussions about course materials, programming tools, and practical considerations for teaching AI and machine learning, including the use of GitHub repositories and presentation requirements for mentees.
+  events:
+    - name: Check-in 3
+      links:
+        - title: Course Goals Deck
+          icon: fa-brands fa-google-drive
+          iconcolor: orange
+          url:  https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing
+        - title: Deliverables 
+          icon: fa-regular fa-file-pdf
+          iconcolor: red
+          url: "assets/slides/event/FacultyHack25-Deliverables.pdf"
+    - name: AI in the Classroom Overview
+      type: Presentation
+      links:
+        - title: AI in the Classroom Slide Deck
+          icon: fa-regular fa-file-pdf
+          iconcolor: red
+          url: "assets/slides/event/An AI Course in Computaional Engineering at UT Austin.pdf"
+        - title: Joe Stubbs
+          icon: fa fa-linkedin
+          iconcolor: blue
+          url: https://www.linkedin.com/in/joe-stubbs-54010022
+
+
 
 - date: "2025-09-24T18:00(-04:00)"
   session: Evening
@@ -197,7 +229,20 @@ general_schedule:
   # locationmap:
   zoomlink: https://us06web.zoom.us/j/85041088870?pwd=LnGPLImkQL4Bu2ak6bvnHB5VkFlT8A.1
   theme: "GitHub & Gateway Conference Poster Requirements"
+  description: >
+        <strong>Summary:</strong>The meeting began with organizational discussions about scheduling and preparing for upcoming presentations and GitHub training sessions. The group then focused on reviewing course goals and progress updates from participants, including discussions about science gateway resources and their integration into various educational settings. The conversation ended with detailed instructions about preparing for the upcoming Gateways Conference poster session, including GitHub repository setup and submission requirements.
   events:
+    - name: Check-in 4
+      
+      links:
+        - title: Course Goals Deck
+          icon: fa-brands fa-google-drive
+          iconcolor: orange
+          url:  https://docs.google.com/presentation/d/10sr9FJZD11R352v21ZsBytK5UUitdnL3xfQpQ3sdyZU/edit?usp=sharing
+        - title: Deliverables 
+          icon: fa-regular fa-file-pdf
+          iconcolor: red
+          url: "assets/slides/event/FacultyHack25-Deliverables.pdf"
     - name: Poster Requirements Overview
       links:
         - title: Poster Template
