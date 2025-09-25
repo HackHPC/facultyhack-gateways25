@@ -6,9 +6,7 @@
        <strong><a href="#{{ team.teamname }}" target="_self"> {{ team.emojicode }} {{ team.teamname }}</a></strong> | 
      {% endfor %}
      <br>
-    
- 
-    
+  
     {% for team in site.data.teams.teams %}
   <div>
     
@@ -132,7 +130,32 @@
             {% endif %}
          </li>   
         {% endfor %}
+      
         </ul>
+        
+              {% if team.files %}
+        <strong> Files: </strong><br>
+          <ul>
+            {% assign files = site.static_files | where_exp: "file", "file.path contains team.files" %}
+            {% for file in files %}
+
+                {% if file.extname == ".pdf" %}
+                  <li><a href="{{ file.path | relative_url }}"> <i class="fas fa-file-pdf"  style="color:red"></i> {{ file.name }}</a></li>
+                {% elsif file.extname == ".png" %}
+                  <li><a href="{{ file.path | relative_url }}"> <i class="fas fa-file-image" style="color:black"></i> {{ file.name }}</a></li>
+                {% else %}
+                  <li><a href="{{ file.path | relative_url }}"> <i class="fas fa-file" style="color:darkgrey"></i> {{ file.name }}</a></li>
+
+                {% endif %}
+                     
+             
+            {% endfor %}
+          </ul>
+        {% endif %}
+      
+      
+      
+      
         {% if team.resources %}
         <strong> Resources: </strong><br>
           <ul>

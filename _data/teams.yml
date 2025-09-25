@@ -45,8 +45,12 @@ teams:
       <li>Goal 3: Introduce Parallelism Concepts </li>
       <li>Goal 4: Connect to Supercomputing</li>
     </ul>
+  files: 'teams/Sabrina_Perry'
   links: []
-  images: []
+  images:
+    - name: Course Goals
+      url: teams/Sabrina_Perry/coursegoals.pdf
+      imagelink: teams/Sabrina_Perry/coursegoals.png
 
 - teamname: Research Methods and Data Analysis (CPAD 503)
   mentor:
@@ -88,8 +92,12 @@ teams:
       <li>Goal 3: Be familiar with jetstream2 </li>
       <li>Goal 4: Create reproducible projects </li>
     </ul>
+  files: 'teams/Oyebade_Oyerinde'
   links: []
-  images: []
+  images:
+    - name: Course Goals
+      url: teams/Oyebade_Oyerinde/coursegoals.pdf
+      imagelink: teams/Oyebade_Oyerinde/coursegoals.png
 
 - teamname: Ecology (SBIO 404 B)
   mentor:
@@ -137,7 +145,11 @@ teams:
       <li>Goal 3: Revise my Ecology course to include the science gateways resources.</li>
     </ul>
   links: []
-  images: []
+  files: 'teams/Mary_Beals'
+  images:
+    - name: Course Goals
+      url: teams/Mary_Beals/coursegoals.pdf
+      imagelink: teams/Mary_Beals/coursegoals.png
 
 - teamname: General Biology (412)
   mentor:
@@ -184,8 +196,12 @@ teams:
       <li>Goal 2: Enhance engagement in the classroom. </li>
       <li>Goal 3: Incorporate AI for learning support for students in majors biology.</li>
     </ul>
+  files: 'teams/Tanganika_Johnson'
   links: []
-  images: []
+  images:
+    - name: Course Goals
+      url: teams/Tanganika_Johnson/coursegoals.pdf
+      imagelink: teams/Tanganika_Johnson/coursegoals.png
 
 - teamname: GPUs for Massively Parallel Mechanistic Modeling
   mentor:
@@ -233,12 +249,16 @@ teams:
       <li>Goal 3: Teach all C++ classroom exercises inside a web IDE. </li>
       <li>Goal 4: Train students to package their project.</li>
     </ul>
+  files: 'teams/Pariksheet_Nanda'
   links:
     - name: GitHub Repo
       url: https://github.com/omsai/facultyhack-gateways25-nanda
       icon: "fa-brands fa-github"
       iconcolor: black 
-  images: []
+  images:
+    - name: Course Goals
+      url: teams/Pariksheet_Nanda/coursegoals.pdf 
+      imagelink: teams/Pariksheet_Nanda/coursegoals.png
 
 - teamname: Intro to Programming (CMP 224)
   mentor:
@@ -286,8 +306,12 @@ teams:
       <li>Developing Problem-Solving Skills: Students will learn to analyze problems, create logical algorithms, and translate solutions into code, fostering critical thinking and computational reasoning. </li>
       <li>Writing Clean, Efficient Code: Students will practice coding with clarity, proper documentation, and organization, emphasizing best practices for readability and maintainability.</li>   
     </ul>
+  files: 'teams/Cheryl_Swanier'
   links: []
-  images: []
+  images:
+    - name: Course Goals
+      url: teams/Cheryl_Swanier/coursegoals.pdf
+      imagelink: teams/Cheryl_Swanier/coursegoals.png
 
 - teamname: Cyber Security (CMP 431)
   mentor:
@@ -333,8 +357,12 @@ teams:
       <li>Improve student engagements and interests in coursework. Creates diverse sets of quizzes and project ideas with the syllabus. R eal world scenarios with AI role play</li>
       <li>Science Gateway Goal: 1: Integrate Jetstream2 into modules and assignments. Science Gateway Goal 2 : Simulate more real world scenarios with AI role play using deapsecure , and clark</li>
     </ul>
+  files: 'teams/Joshua_Gbadebo'
   links: []
-  images: []
+  images:
+    - name: Course Goals
+      url: teams/Joshua_Gbadebo/coursegoals.pdf
+      imagelink: teams/Joshua_Gbadebo/coursegoals.png
 
 - teamname: Bioinformatics for NGS Data Analysis. (BIOL 522)
   mentor:
@@ -385,8 +413,12 @@ teams:
       <li>Goal 4: Build a sustainable framework for incorporating new tools and datasets into the course.</li>
       
     </ul>
+  files: 'teams/Feseha_Abebe-Akele'
   links: []
-  images: []
+  images:
+    - name: Course Goals
+      url: teams/Feseha_Abebe-Akele/coursegoals.pdf
+      imagelink: teams/Feseha_Abebe-Akele/coursegoals.png
 
 - teamname: Bayesian Stats, Geocomputation (DS 400, DS 422)
   mentor:
@@ -427,5 +459,9 @@ teams:
       <li>Science Gateway Goal 2: Understand the most efficient ways to work with satellite data (API’s, packages, etc?) The Earth Observing System Data and Information System (EOSDIS) Gateway </li>
       <li>Science Gateway Goal 3: Utilize JetStream virtual machines in class</li>
     </ul>
+  files: 'teams/Connor_Flynn'
   links: []
-  images: []
+  images:
+    - name: Course Goals
+      url: teams/Connor_Flynn/coursegoals.pdf
+      imagelink: teams/Connor_Flynn/coursegoals.png
