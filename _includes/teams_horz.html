@@ -16,20 +16,15 @@
             
             
             <p class="teams-h"> 
-              
 
               {% for member in team.members.names %}
-                {% if forloop.last == true %}
-                <br>
+                
                 &#x2022; {{ member }} 
-                {% else %}  
-                <br> 
-                &#x2022; {{ member }} 
-                {% endif %}
+                
               {% endfor %}
 
               {% for mentor in team.mentor.names %}
-              &#x2022; {{ mentor }}(M) <br>
+              &#x2022; {{ mentor }}(M)
               {% endfor %}
               
             
