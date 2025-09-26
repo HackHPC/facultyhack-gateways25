@@ -212,10 +212,10 @@ teams:
     </ul>
   files: 'teams/Tanganika_Johnson'
   links: 
-    #- name: GitHub Repo
-    #  url: 
-    #  icon: "fa-brands fa-github"
-    #  iconcolor: black
+    - name: GitHub Repo
+      url: https://github.com/tanganjohnson-ai/Hackathon-25-Plant-Physiology-
+      icon: "fa-brands fa-github"
+      iconcolor: black
   images:
     - name: Course Goals
       url: teams/Tanganika_Johnson/coursegoals.pdf
