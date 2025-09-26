@@ -99,7 +99,11 @@ teams:
       <li>Goal 4: Create reproducible projects </li>
     </ul>
   files: 'teams/Oyebade_Oyerinde'
-  links: []
+  links: 
+    - name: GitHub Repo
+      url: https://github.com/ooyerind/Research-Method-and-Data-Analysis
+      icon: "fa-brands fa-github"
+      iconcolor: black
   images:
     - name: Course Goals
       url: teams/Oyebade_Oyerinde/coursegoals.pdf
@@ -150,7 +154,11 @@ teams:
       <li>Goal 2: Introduce students to new and impactful Generative AI and resources for science </li>
       <li>Goal 3: Revise my Ecology course to include the science gateways resources.</li>
     </ul>
-  links: []
+  links: 
+    - name: GitHub Repo
+      url: https://github.com/DrMBea/FacultyHack25
+      icon: "fa-brands fa-github"
+      iconcolor: black
   files: 'teams/Mary_Beals'
   images:
     - name: Course Goals
@@ -203,7 +211,11 @@ teams:
       <li>Goal 3: Incorporate AI for learning support for students in majors biology.</li>
     </ul>
   files: 'teams/Tanganika_Johnson'
-  links: []
+  links: 
+    #- name: GitHub Repo
+    #  url: 
+    #  icon: "fa-brands fa-github"
+    #  iconcolor: black
   images:
     - name: Course Goals
       url: teams/Tanganika_Johnson/coursegoals.pdf
@@ -313,7 +325,11 @@ teams:
       <li>Writing Clean, Efficient Code: Students will practice coding with clarity, proper documentation, and organization, emphasizing best practices for readability and maintainability.</li>   
     </ul>
   files: 'teams/Cheryl_Swanier'
-  links: []
+  links: 
+    - name: GitHub Repo
+      url: https://github.com/cswanier/FacultyHack
+      icon: "fa-brands fa-github"
+      iconcolor: black
   images:
     - name: Course Goals
       url: teams/Cheryl_Swanier/coursegoals.pdf
@@ -365,6 +381,10 @@ teams:
     </ul>
   files: 'teams/Joshua_Gbadebo'
   links:
+    - name: GitHub Repo
+      url: https://github.com/gestureb-cpu/Course-Syllabus
+      icon: "fa-brands fa-github"
+      iconcolor: black
     - name: Cheese-Hub
       url: https://github.com/cheese-hub
       icon: "fa-brands fa-github"
@@ -424,7 +444,11 @@ teams:
       
     </ul>
   files: 'teams/Feseha_Abebe-Akele'
-  links: []
+  links:
+    #- name: GitHub Repo
+    #  url: 
+    #  icon: "fa-brands fa-github"
+    #  iconcolor: black
   images:
     - name: Course Goals
       url: teams/Feseha_Abebe-Akele/coursegoals.pdf
@@ -470,7 +494,11 @@ teams:
       <li>Science Gateway Goal 3: Utilize JetStream virtual machines in class</li>
     </ul>
   files: 'teams/Connor_Flynn'
-  links: []
+  links:
+    - name: GitHub Repo
+      url: https://github.com/ConnorFlynn/sgx3-facultyhack
+      icon: "fa-brands fa-github"
+      iconcolor: black 
   images:
     - name: Course Goals
       url: teams/Connor_Flynn/coursegoals.pdf
